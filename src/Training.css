@@ -1,0 +1,15 @@
+.ag-header.cell.label {
+    justify-content: center;
+}
+
+.hover{
+    pointer-events: none;
+}
+
+.ag-header.cell{
+    border-width: 0;
+    border-bottom-width: 2px;
+    border-style: solid;
+    color: rgb(50, 50, 50);
+    font-weight: bolder;
+}
